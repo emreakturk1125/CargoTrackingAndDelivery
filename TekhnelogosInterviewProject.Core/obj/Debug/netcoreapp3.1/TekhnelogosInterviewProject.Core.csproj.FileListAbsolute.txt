@@ -1,0 +1,15 @@
+D:\Tekhnelogos\TekhnelogosInterviewProject\TekhnelogosInterviewProject.Core\bin\Debug\netcoreapp3.1\TekhnelogosInterviewProject.Core.deps.json
+D:\Tekhnelogos\TekhnelogosInterviewProject\TekhnelogosInterviewProject.Core\bin\Debug\netcoreapp3.1\TekhnelogosInterviewProject.Core.dll
+D:\Tekhnelogos\TekhnelogosInterviewProject\TekhnelogosInterviewProject.Core\bin\Debug\netcoreapp3.1\TekhnelogosInterviewProject.Core.pdb
+D:\Tekhnelogos\TekhnelogosInterviewProject\TekhnelogosInterviewProject.Core\bin\Debug\netcoreapp3.1\TekhnelogosInterviewProject.Entity.dll
+D:\Tekhnelogos\TekhnelogosInterviewProject\TekhnelogosInterviewProject.Core\bin\Debug\netcoreapp3.1\TekhnelogosInterviewProject.Helper.dll
+D:\Tekhnelogos\TekhnelogosInterviewProject\TekhnelogosInterviewProject.Core\bin\Debug\netcoreapp3.1\TekhnelogosInterviewProject.Entity.pdb
+D:\Tekhnelogos\TekhnelogosInterviewProject\TekhnelogosInterviewProject.Core\bin\Debug\netcoreapp3.1\TekhnelogosInterviewProject.Helper.pdb
+D:\Tekhnelogos\TekhnelogosInterviewProject\TekhnelogosInterviewProject.Core\obj\Debug\netcoreapp3.1\TekhnelogosInterviewProject.Core.csprojAssemblyReference.cache
+D:\Tekhnelogos\TekhnelogosInterviewProject\TekhnelogosInterviewProject.Core\obj\Debug\netcoreapp3.1\TekhnelogosInterviewProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tekhnelogos\TekhnelogosInterviewProject\TekhnelogosInterviewProject.Core\obj\Debug\netcoreapp3.1\TekhnelogosInterviewProject.Core.AssemblyInfoInputs.cache
+D:\Tekhnelogos\TekhnelogosInterviewProject\TekhnelogosInterviewProject.Core\obj\Debug\netcoreapp3.1\TekhnelogosInterviewProject.Core.AssemblyInfo.cs
+D:\Tekhnelogos\TekhnelogosInterviewProject\TekhnelogosInterviewProject.Core\obj\Debug\netcoreapp3.1\TekhnelogosInterviewProject.Core.csproj.CoreCompileInputs.cache
+D:\Tekhnelogos\TekhnelogosInterviewProject\TekhnelogosInterviewProject.Core\obj\Debug\netcoreapp3.1\TekhnelogosInterviewProject.Core.csproj.CopyComplete
+D:\Tekhnelogos\TekhnelogosInterviewProject\TekhnelogosInterviewProject.Core\obj\Debug\netcoreapp3.1\TekhnelogosInterviewProject.Core.dll
+D:\Tekhnelogos\TekhnelogosInterviewProject\TekhnelogosInterviewProject.Core\obj\Debug\netcoreapp3.1\TekhnelogosInterviewProject.Core.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wikil+J3KdlVl2NWREnKTKMvMAdZ44aOwC+eHmsyswDpZOeH6VNHoNeRLUdSkzlhf1kYng5aYN8wBgE2EBD+kA==",
+  "success": true,
+  "projectFilePath": "D:\\Tekhnelogos\\TekhnelogosInterviewProject\\TekhnelogosInterviewProject.Core\\TekhnelogosInterviewProject.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aktur\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

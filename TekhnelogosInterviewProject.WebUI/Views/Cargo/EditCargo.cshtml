@@ -1,0 +1,40 @@
+﻿@model TekhnelogosInterviewProject.Entity.DTOs.CargoDto
+@{
+    ViewData["Title"] = "Kargo Düzenleme Sayfası";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<br />
+<h1>Kargo Düzenleme Sayfası</h1>
+<br />
+@using (Html.BeginForm("EditCargo", "Cargo", FormMethod.Post))
+{
+<div class="form-group" style="width:800px;margin:auto">
+    @Html.Hidden("Kargo Id")
+    @Html.HiddenFor(x => x.CargoId, new { @class = "form-control" })
+    @Html.Label("Kargo Adı")
+    @Html.TextBoxFor(x => x.CargoName, new { @class = "form-control" })
+    @*@Html.ValidationMessageFor(x => x.HeadingName, "", new { @style = "color:red" })*@
+    <br />
+
+    @Html.Label("Müşteri")
+    @Html.DropDownListFor(x => x.CustomerId, (List<SelectListItem>)ViewBag.vlcCustomer, new { @class = "form-control", disabled = "disabled" })
+    @*@Html.ValidationMessageFor(x => x.CategoryId, "", new { @style = "color:red" })*@
+    <br />
+
+    @Html.Label("Personel")
+    @Html.DropDownListFor(x => x.PersonalId, (List<SelectListItem>)ViewBag.vlcPersonal, "-Lütfen Seçiniz-", new { @class = "form-control" })
+    @*@Html.ValidationMessageFor(x => x.WriterId, "", new { @style = "color:red" })*@
+    <br />
+    @Html.Label("Kargo Fiyatı")
+    @Html.TextBoxFor(x => x.CargoPrice, new { @class = "form-control" })
+    @*@Html.ValidationMessageFor(x => x.WriterId, "", new { @style = "color:red" })*@
+    @*<br />
+        @Html.Label("Kargo Alınma Tarihi")
+        @Html.TextBoxFor(x => x.ShippingDate, new { @class = "form-control" })*@
+    @*@Html.ValidationMessageFor(x => x.WriterId, "", new { @style = "color:red" })*@
+    <br />
+    <button class="btn btn-info">Teslim Et</button>
+</div>
+}
+

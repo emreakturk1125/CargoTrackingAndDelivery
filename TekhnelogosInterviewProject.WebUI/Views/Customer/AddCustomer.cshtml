@@ -1,0 +1,27 @@
+﻿@model TekhnelogosInterviewProject.Entity.DTOs.CustomerDto
+@{
+    ViewData["Title"] = "Müşteri Ekleme Sayfası";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<br />
+<h1>Yeni Müşteri Ekleme Sayfası</h1>
+<br />
+@using (Html.BeginForm("AddCustomer", "Customer", FormMethod.Post))
+{
+<div class="form-group" style="width:800px;margin:auto">
+    @Html.Label("Müşteri Adı")
+    @Html.TextBoxFor(x => x.CustomerName, new { @class = "form-control", required = "required" })
+    @*@Html.ValidationMessageFor(x => x.HeadingName, "", new { @style = "color:red" })*@
+    <br />
+    @Html.Label("Müşteri Soyadı")
+    @Html.TextBoxFor(x => x.CustomerSurname, new { @class = "form-control", required = "required" })
+    @*@Html.ValidationMessageFor(x => x.HeadingName, "", new { @style = "color:red" })*@
+    <br />
+    @Html.Label("Müşteri Adres")
+    @Html.TextBoxFor(x => x.CustomerAddress, new { @class = "form-control", required = "required" })
+    @*@Html.ValidationMessageFor(x => x.HeadingName, "", new { @style = "color:red" })*@
+    <br />
+    <button class="btn btn-info">Müşteri Ekle</button>
+</div>
+}

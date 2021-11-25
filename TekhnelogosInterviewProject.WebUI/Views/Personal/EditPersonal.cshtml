@@ -1,0 +1,42 @@
+﻿ 
+@model TekhnelogosInterviewProject.Entity.DTOs.PersonalDto
+@{
+    ViewData["Title"] = "Personel Düzenleme Sayfası";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<br />
+<h1> Personel Düzenleme Sayfası</h1>
+<br />
+@using (Html.BeginForm("EditPersonal", "Personal", FormMethod.Post))
+{
+<div class="form-group" style="width:800px;margin:auto">
+    @Html.Hidden("Personel Id")
+    @Html.HiddenFor(x => x.PersonalId, new { @class = "form-control" })
+    @Html.Label("Personel Adı")
+    @Html.TextBoxFor(x => x.PersonalName, new { @class = "form-control" })
+    @*@Html.ValidationMessageFor(x => x.HeadingName, "", new { @style = "color:red" })*@
+    <br />
+    @Html.Label("Personel Soyadı")
+    @Html.TextBoxFor(x => x.PersonalSurname, new { @class = "form-control" })
+    @*@Html.ValidationMessageFor(x => x.HeadingName, "", new { @style = "color:red" })*@
+    <br />
+    @Html.Label("Kullanıcı Adı")
+    @Html.TextBoxFor(x => x.UserName, new { @class = "form-control" })
+    @*@Html.ValidationMessageFor(x => x.HeadingName, "", new { @style = "color:red" })*@
+    <br />
+    @Html.Label("Kullanıcı Şifre")
+    @Html.TextBoxFor(x => x.UserPassword, new { @class = "form-control" })
+    @*@Html.ValidationMessageFor(x => x.HeadingName, "", new { @style = "color:red" })*@
+    <br />
+    @Html.Label("Rol")
+    @Html.DropDownListFor(x => x.RoleId, (List<SelectListItem>)ViewBag.vlcRole, "-Lütfen Seçiniz-", new { @class = "form-control" })
+    @*@Html.ValidationMessageFor(x => x.WriterId, "", new { @style = "color:red" })*@
+    <br />
+    @Html.Label("Durum")
+    @Html.CheckBoxFor(x => x.IsActive, new { @style = "width:5%" })
+<br />  
+<br />  
+    <button class="btn btn-info">Düzenle</button>
+</div>
+}

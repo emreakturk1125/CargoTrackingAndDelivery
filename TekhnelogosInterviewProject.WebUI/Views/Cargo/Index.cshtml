@@ -1,0 +1,194 @@
+﻿@using TekhnelogosInterviewProject.Entity.DTOs
+
+@model List<CargoWithCustAndPerDto>
+
+
+@{
+    ViewData["Title"] = "Kargo Listesi";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+@{
+    string statusColor = "";
+    string deliveryStatusColor = "";
+}
+
+<!-- Site wrapper -->
+<div class="wrapper">
+    <!-- Content Header (Page header) -->
+    <section class="content-header">
+        <div class="container-fluid">
+            <div class="row mb-2">
+                <div class="col-sm-6">
+                    <h1>Kargo Listesi</h1>
+                </div>
+            </div>
+        </div><!-- /.container-fluid -->
+    </section>
+
+    <!-- Main content -->
+    <section class="content">
+
+        <!-- Default box -->
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title">Kargo Listesi</h3>
+
+                <div class="card-tools">
+                    <button type="button" class="btn btn-tool" data-card-widget="collapse" data-toggle="tooltip" title="Collapse">
+                        <i class="fas fa-minus"></i>
+                    </button>
+                    <button type="button" class="btn btn-tool" data-card-widget="remove" data-toggle="tooltip" title="Remove">
+                        <i class="fas fa-times"></i>
+                    </button>
+                </div>
+            </div>
+            <a href="/Cargo/AddCargo/" class="btn btn-success">
+                <i class="fas fa-plus"></i> Yeni Kargo
+            </a>
+
+            <div class="card-body p-0">
+                <table class="table table-striped projects">
+                    <thead>
+                        <tr>
+                            <th style="width: 5%">
+                                #
+                            </th>
+                            <th style="width: 10%">
+                                Kargo Adı
+                            </th>
+                            <th style="width: 10%">
+                                Adress
+                            </th>
+                            <th style="width: 5%">
+                                Ücret
+                            </th>
+                            <th style="width: 10%">
+                                Müşteri Adı
+                            </th>
+                            <th style="width: 10%">
+                                Personel Adı
+                            </th>
+                            <th style="width: 10%">
+                                Alınma Tar.
+                            </th>
+                            <th style="width: 10%">
+                                Teslim  Tar.
+                            </th>
+                            <th style="width: 5%">
+                                Teslimat Durumu
+                            </th>
+                            <th style="width: 5%">
+                                Kargo İptali
+                            </th>
+                            <th>
+
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+
+                            if (item.IsActive)
+                            {
+                                statusColor = "badge badge-success";
+                            }
+                            else
+                            {
+                                statusColor = "badge badge-danger";
+                            }
+
+                            if (item.DeliveryDate != null)
+                            {
+                                deliveryStatusColor = "badge badge-success";
+                            }
+                            else
+                            {
+                                deliveryStatusColor = "badge badge-danger";
+                            }
+
+                        <tr>
+                            <td>
+                                @item.CargoId
+                            </td>
+                            <td>
+                                @item.CargoName
+                            </td>
+                            <td>
+                                @item.Customer.CustomerAddress
+                            </td>
+                            <td>
+                                @item.CargoPrice
+                            </td>
+                            <td>
+                                @item.Customer.CustomerName
+                            </td>
+                            <td>
+                                @item.Personal.PersonalName
+                            </td>
+                            <td>
+                                @item.ShippingDate
+                            </td>
+                            <td>
+                                @item.DeliveryDate
+                            </td>
+                            <td>
+                                <span class="@deliveryStatusColor"> @(item.DeliveryDate != null ? "Edildi":"Edilmedi")</span>
+                            </td>
+                            <td>
+                                <span class="@statusColor"> @(item.IsActive ? "Hayır":"Evet")</span>
+                            </td>
+
+
+                            <td class="project-actions text-right">
+                                @if (item.DeliveryDate != null || (item.DeliveryDate == null && item.IsActive == false))
+                                {
+                                    <a class="btn btn-default btn-sm disabled" href="/Cargo/EditCargo/@item.CargoId">
+                                        <i class="fas fa-plus">
+                                        </i>
+                                        Kargo Teslim Et
+                                    </a>
+                                }
+                                else
+                                {
+                                    <a class="btn btn-default btn-sm" href="/Cargo/EditCargo/@item.CargoId">
+                                        <i class="fas fa-plus">
+                                        </i>
+                                        Kargo Teslim Et
+                                    </a>
+                                }
+                                @if ((item.DeliveryDate != null && item.IsActive == true) || (item.DeliveryDate == null && item.IsActive == false) )
+                                {
+                                    <a class="btn btn-danger btn-sm disabled" href="/Cargo/DeleteCargo/@item.CargoId">
+                                        <i class="fas fa-trash">
+                                        </i>
+                                        Sil
+                                    </a>
+                                }
+                                else
+                                {
+                                    <a class="btn btn-danger btn-sm" href="/Cargo/DeleteCargo/@item.CargoId">
+                                        <i class="fas fa-trash">
+                                        </i>
+                                        Sil
+                                    </a>
+                                }
+                            </td>
+
+
+                        </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+            <!-- /.card-body -->
+        </div>
+        <!-- /.card -->
+
+    </section>
+    <!-- /.content -->
+</div>
+
+
+

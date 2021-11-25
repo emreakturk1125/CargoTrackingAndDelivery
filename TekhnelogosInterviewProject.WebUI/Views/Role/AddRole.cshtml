@@ -1,0 +1,20 @@
+﻿@model TekhnelogosInterviewProject.Entity.DTOs.RoleDto
+@{
+    ViewData["Title"] = "Rol Ekleme Sayfası";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<br />
+<h1>Yeni Rol Ekleme Sayfası</h1>
+<br />
+@using (Html.BeginForm("AddRole", "Role", FormMethod.Post))
+{
+    <div class="form-group" style="width:800px;margin:auto">
+        @Html.Label("Rol Adı")
+        @Html.TextBoxFor(x => x.RoleName, new { @class = "form-control" })
+        @*@Html.ValidationMessageFor(x => x.HeadingName, "", new { @style = "color:red" })*@
+       
+        <br />
+        <button class="btn btn-info">Rol Ekle</button>
+    </div>
+}

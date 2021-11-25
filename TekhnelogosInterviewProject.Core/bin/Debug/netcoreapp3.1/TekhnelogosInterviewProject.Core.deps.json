@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TekhnelogosInterviewProject.Core/1.0.0": {
+        "dependencies": {
+          "TekhnelogosInterviewProject.Entity": "1.0.0",
+          "TekhnelogosInterviewProject.Helper": "1.0.0"
+        },
+        "runtime": {
+          "TekhnelogosInterviewProject.Core.dll": {}
+        }
+      },
+      "TekhnelogosInterviewProject.Entity/1.0.0": {
+        "runtime": {
+          "TekhnelogosInterviewProject.Entity.dll": {}
+        }
+      },
+      "TekhnelogosInterviewProject.Helper/1.0.0": {
+        "dependencies": {
+          "TekhnelogosInterviewProject.Entity": "1.0.0"
+        },
+        "runtime": {
+          "TekhnelogosInterviewProject.Helper.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TekhnelogosInterviewProject.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TekhnelogosInterviewProject.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TekhnelogosInterviewProject.Helper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

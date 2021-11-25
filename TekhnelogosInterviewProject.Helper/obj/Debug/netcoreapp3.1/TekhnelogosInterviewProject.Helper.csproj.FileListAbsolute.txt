@@ -1,0 +1,13 @@
+D:\Tekhnelogos\TekhnelogosInterviewProject\TekhnelogosInterviewProject.Helper\bin\Debug\netcoreapp3.1\TekhnelogosInterviewProject.Helper.deps.json
+D:\Tekhnelogos\TekhnelogosInterviewProject\TekhnelogosInterviewProject.Helper\bin\Debug\netcoreapp3.1\TekhnelogosInterviewProject.Helper.dll
+D:\Tekhnelogos\TekhnelogosInterviewProject\TekhnelogosInterviewProject.Helper\bin\Debug\netcoreapp3.1\TekhnelogosInterviewProject.Helper.pdb
+D:\Tekhnelogos\TekhnelogosInterviewProject\TekhnelogosInterviewProject.Helper\bin\Debug\netcoreapp3.1\TekhnelogosInterviewProject.Entity.dll
+D:\Tekhnelogos\TekhnelogosInterviewProject\TekhnelogosInterviewProject.Helper\bin\Debug\netcoreapp3.1\TekhnelogosInterviewProject.Entity.pdb
+D:\Tekhnelogos\TekhnelogosInterviewProject\TekhnelogosInterviewProject.Helper\obj\Debug\netcoreapp3.1\TekhnelogosInterviewProject.Helper.csprojAssemblyReference.cache
+D:\Tekhnelogos\TekhnelogosInterviewProject\TekhnelogosInterviewProject.Helper\obj\Debug\netcoreapp3.1\TekhnelogosInterviewProject.Helper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tekhnelogos\TekhnelogosInterviewProject\TekhnelogosInterviewProject.Helper\obj\Debug\netcoreapp3.1\TekhnelogosInterviewProject.Helper.AssemblyInfoInputs.cache
+D:\Tekhnelogos\TekhnelogosInterviewProject\TekhnelogosInterviewProject.Helper\obj\Debug\netcoreapp3.1\TekhnelogosInterviewProject.Helper.AssemblyInfo.cs
+D:\Tekhnelogos\TekhnelogosInterviewProject\TekhnelogosInterviewProject.Helper\obj\Debug\netcoreapp3.1\TekhnelogosInterviewProject.Helper.csproj.CoreCompileInputs.cache
+D:\Tekhnelogos\TekhnelogosInterviewProject\TekhnelogosInterviewProject.Helper\obj\Debug\netcoreapp3.1\TekhnelogosInterviewProject.Helper.csproj.CopyComplete
+D:\Tekhnelogos\TekhnelogosInterviewProject\TekhnelogosInterviewProject.Helper\obj\Debug\netcoreapp3.1\TekhnelogosInterviewProject.Helper.dll
+D:\Tekhnelogos\TekhnelogosInterviewProject\TekhnelogosInterviewProject.Helper\obj\Debug\netcoreapp3.1\TekhnelogosInterviewProject.Helper.pdb
