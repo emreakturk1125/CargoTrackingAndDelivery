@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5MEj06adNRhoPX9fX60+0xOuDXjXGL2Nm3VYPSJaUs+154VLz18K/IhsNwlzk9Cui7lbzsuqSM3KM88ibCN0/Q==",
+  "dgSpecHash": "BY1RbqEZ75PejCcVklfckv4hA6kUZBWGHpOecsLgaIf3OUi63taFj/DSWSrIf5IV0p90WgDYUKN9I4kXlcmbkw==",
   "success": true,
-  "projectFilePath": "D:\\Tekhnelogos\\TekhnelogosInterviewProject\\TekhnelogosInterviewProject.WebUI\\TekhnelogosInterviewProject.WebUI.csproj",
+  "projectFilePath": "C:\\Users\\aktur\\Documents\\GitHub\\CargoTrackingAndDelivery\\TekhnelogosInterviewProject.WebUI\\TekhnelogosInterviewProject.WebUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aktur\\.nuget\\packages\\fluentvalidation\\10.3.4\\fluentvalidation.10.3.4.nupkg.sha512",
     "C:\\Users\\aktur\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

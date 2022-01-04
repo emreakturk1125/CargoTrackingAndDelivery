@@ -9587,11 +9587,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Tekhnelogos\\TekhnelogosInterviewProject\\TekhnelogosInterviewProject.WebUI\\TekhnelogosInterviewProject.WebUI.csproj",
+      "projectUniqueName": "C:\\Users\\aktur\\Documents\\GitHub\\CargoTrackingAndDelivery\\TekhnelogosInterviewProject.WebUI\\TekhnelogosInterviewProject.WebUI.csproj",
       "projectName": "TekhnelogosInterviewProject.WebUI",
-      "projectPath": "D:\\Tekhnelogos\\TekhnelogosInterviewProject\\TekhnelogosInterviewProject.WebUI\\TekhnelogosInterviewProject.WebUI.csproj",
+      "projectPath": "C:\\Users\\aktur\\Documents\\GitHub\\CargoTrackingAndDelivery\\TekhnelogosInterviewProject.WebUI\\TekhnelogosInterviewProject.WebUI.csproj",
       "packagesPath": "C:\\Users\\aktur\\.nuget\\packages\\",
-      "outputPath": "D:\\Tekhnelogos\\TekhnelogosInterviewProject\\TekhnelogosInterviewProject.WebUI\\obj\\",
+      "outputPath": "C:\\Users\\aktur\\Documents\\GitHub\\CargoTrackingAndDelivery\\TekhnelogosInterviewProject.WebUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aktur\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9608,11 +9608,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Tekhnelogos\\TekhnelogosInterviewProject\\TekhnelogosInterviewProject.Entity\\TekhnelogosInterviewProject.Entity.csproj": {
-              "projectPath": "D:\\Tekhnelogos\\TekhnelogosInterviewProject\\TekhnelogosInterviewProject.Entity\\TekhnelogosInterviewProject.Entity.csproj"
+            "C:\\Users\\aktur\\Documents\\GitHub\\CargoTrackingAndDelivery\\TekhnelogosInterviewProject.Entity\\TekhnelogosInterviewProject.Entity.csproj": {
+              "projectPath": "C:\\Users\\aktur\\Documents\\GitHub\\CargoTrackingAndDelivery\\TekhnelogosInterviewProject.Entity\\TekhnelogosInterviewProject.Entity.csproj"
             },
-            "D:\\Tekhnelogos\\TekhnelogosInterviewProject\\TekhnelogosInterviewProject.Service\\TekhnelogosInterviewProject.Service.csproj": {
-              "projectPath": "D:\\Tekhnelogos\\TekhnelogosInterviewProject\\TekhnelogosInterviewProject.Service\\TekhnelogosInterviewProject.Service.csproj"
+            "C:\\Users\\aktur\\Documents\\GitHub\\CargoTrackingAndDelivery\\TekhnelogosInterviewProject.Service\\TekhnelogosInterviewProject.Service.csproj": {
+              "projectPath": "C:\\Users\\aktur\\Documents\\GitHub\\CargoTrackingAndDelivery\\TekhnelogosInterviewProject.Service\\TekhnelogosInterviewProject.Service.csproj"
             }
           }
         }

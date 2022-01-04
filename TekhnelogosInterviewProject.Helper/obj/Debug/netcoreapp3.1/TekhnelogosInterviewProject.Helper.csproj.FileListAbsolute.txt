@@ -11,3 +11,16 @@ D:\Tekhnelogos\TekhnelogosInterviewProject\TekhnelogosInterviewProject.Helper\ob
 D:\Tekhnelogos\TekhnelogosInterviewProject\TekhnelogosInterviewProject.Helper\obj\Debug\netcoreapp3.1\TekhnelogosInterviewProject.Helper.csproj.CopyComplete
 D:\Tekhnelogos\TekhnelogosInterviewProject\TekhnelogosInterviewProject.Helper\obj\Debug\netcoreapp3.1\TekhnelogosInterviewProject.Helper.dll
 D:\Tekhnelogos\TekhnelogosInterviewProject\TekhnelogosInterviewProject.Helper\obj\Debug\netcoreapp3.1\TekhnelogosInterviewProject.Helper.pdb
+C:\Users\aktur\Documents\GitHub\CargoTrackingAndDelivery\TekhnelogosInterviewProject.Helper\bin\Debug\netcoreapp3.1\TekhnelogosInterviewProject.Helper.deps.json
+C:\Users\aktur\Documents\GitHub\CargoTrackingAndDelivery\TekhnelogosInterviewProject.Helper\bin\Debug\netcoreapp3.1\TekhnelogosInterviewProject.Helper.dll
+C:\Users\aktur\Documents\GitHub\CargoTrackingAndDelivery\TekhnelogosInterviewProject.Helper\bin\Debug\netcoreapp3.1\TekhnelogosInterviewProject.Helper.pdb
+C:\Users\aktur\Documents\GitHub\CargoTrackingAndDelivery\TekhnelogosInterviewProject.Helper\bin\Debug\netcoreapp3.1\TekhnelogosInterviewProject.Entity.dll
+C:\Users\aktur\Documents\GitHub\CargoTrackingAndDelivery\TekhnelogosInterviewProject.Helper\bin\Debug\netcoreapp3.1\TekhnelogosInterviewProject.Entity.pdb
+C:\Users\aktur\Documents\GitHub\CargoTrackingAndDelivery\TekhnelogosInterviewProject.Helper\obj\Debug\netcoreapp3.1\TekhnelogosInterviewProject.Helper.csprojAssemblyReference.cache
+C:\Users\aktur\Documents\GitHub\CargoTrackingAndDelivery\TekhnelogosInterviewProject.Helper\obj\Debug\netcoreapp3.1\TekhnelogosInterviewProject.Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aktur\Documents\GitHub\CargoTrackingAndDelivery\TekhnelogosInterviewProject.Helper\obj\Debug\netcoreapp3.1\TekhnelogosInterviewProject.Helper.AssemblyInfoInputs.cache
+C:\Users\aktur\Documents\GitHub\CargoTrackingAndDelivery\TekhnelogosInterviewProject.Helper\obj\Debug\netcoreapp3.1\TekhnelogosInterviewProject.Helper.AssemblyInfo.cs
+C:\Users\aktur\Documents\GitHub\CargoTrackingAndDelivery\TekhnelogosInterviewProject.Helper\obj\Debug\netcoreapp3.1\TekhnelogosInterviewProject.Helper.csproj.CoreCompileInputs.cache
+C:\Users\aktur\Documents\GitHub\CargoTrackingAndDelivery\TekhnelogosInterviewProject.Helper\obj\Debug\netcoreapp3.1\TekhnelogosInterviewProject.Helper.csproj.CopyComplete
+C:\Users\aktur\Documents\GitHub\CargoTrackingAndDelivery\TekhnelogosInterviewProject.Helper\obj\Debug\netcoreapp3.1\TekhnelogosInterviewProject.Helper.dll
+C:\Users\aktur\Documents\GitHub\CargoTrackingAndDelivery\TekhnelogosInterviewProject.Helper\obj\Debug\netcoreapp3.1\TekhnelogosInterviewProject.Helper.pdb

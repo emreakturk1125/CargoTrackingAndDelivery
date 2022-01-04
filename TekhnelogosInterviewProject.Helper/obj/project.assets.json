@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Tekhnelogos\\TekhnelogosInterviewProject\\TekhnelogosInterviewProject.Helper\\TekhnelogosInterviewProject.Helper.csproj",
+      "projectUniqueName": "C:\\Users\\aktur\\Documents\\GitHub\\CargoTrackingAndDelivery\\TekhnelogosInterviewProject.Helper\\TekhnelogosInterviewProject.Helper.csproj",
       "projectName": "TekhnelogosInterviewProject.Helper",
-      "projectPath": "D:\\Tekhnelogos\\TekhnelogosInterviewProject\\TekhnelogosInterviewProject.Helper\\TekhnelogosInterviewProject.Helper.csproj",
+      "projectPath": "C:\\Users\\aktur\\Documents\\GitHub\\CargoTrackingAndDelivery\\TekhnelogosInterviewProject.Helper\\TekhnelogosInterviewProject.Helper.csproj",
       "packagesPath": "C:\\Users\\aktur\\.nuget\\packages\\",
-      "outputPath": "D:\\Tekhnelogos\\TekhnelogosInterviewProject\\TekhnelogosInterviewProject.Helper\\obj\\",
+      "outputPath": "C:\\Users\\aktur\\Documents\\GitHub\\CargoTrackingAndDelivery\\TekhnelogosInterviewProject.Helper\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aktur\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Tekhnelogos\\TekhnelogosInterviewProject\\TekhnelogosInterviewProject.Entity\\TekhnelogosInterviewProject.Entity.csproj": {
-              "projectPath": "D:\\Tekhnelogos\\TekhnelogosInterviewProject\\TekhnelogosInterviewProject.Entity\\TekhnelogosInterviewProject.Entity.csproj"
+            "C:\\Users\\aktur\\Documents\\GitHub\\CargoTrackingAndDelivery\\TekhnelogosInterviewProject.Entity\\TekhnelogosInterviewProject.Entity.csproj": {
+              "projectPath": "C:\\Users\\aktur\\Documents\\GitHub\\CargoTrackingAndDelivery\\TekhnelogosInterviewProject.Entity\\TekhnelogosInterviewProject.Entity.csproj"
             }
           }
         }

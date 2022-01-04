@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a16ehuVYirysCfOr3QBEQ6Gis/VX2LPGrnEnSVqsZF+w0/5sh1HARXHHXtVL+eS+DU7fjGxukU1LCGYny4eY7Q==",
+  "dgSpecHash": "JnY8564Ukg6jUVNuGg0mjXw58gFm9MqWgqjmB72j37QALpIQCXkm4ilODC5FJInuo7lgUAV7uRvQOjW46VoGpg==",
   "success": true,
-  "projectFilePath": "D:\\Tekhnelogos\\TekhnelogosInterviewProject\\TekhnelogosInterviewProject.WebApi\\TekhnelogosInterviewProject.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\aktur\\Documents\\GitHub\\CargoTrackingAndDelivery\\TekhnelogosInterviewProject.WebApi\\TekhnelogosInterviewProject.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aktur\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\aktur\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

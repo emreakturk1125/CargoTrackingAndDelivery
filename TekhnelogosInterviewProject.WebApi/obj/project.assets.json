@@ -9358,11 +9358,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Tekhnelogos\\TekhnelogosInterviewProject\\TekhnelogosInterviewProject.WebApi\\TekhnelogosInterviewProject.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\aktur\\Documents\\GitHub\\CargoTrackingAndDelivery\\TekhnelogosInterviewProject.WebApi\\TekhnelogosInterviewProject.WebApi.csproj",
       "projectName": "TekhnelogosInterviewProject.WebApi",
-      "projectPath": "D:\\Tekhnelogos\\TekhnelogosInterviewProject\\TekhnelogosInterviewProject.WebApi\\TekhnelogosInterviewProject.WebApi.csproj",
+      "projectPath": "C:\\Users\\aktur\\Documents\\GitHub\\CargoTrackingAndDelivery\\TekhnelogosInterviewProject.WebApi\\TekhnelogosInterviewProject.WebApi.csproj",
       "packagesPath": "C:\\Users\\aktur\\.nuget\\packages\\",
-      "outputPath": "D:\\Tekhnelogos\\TekhnelogosInterviewProject\\TekhnelogosInterviewProject.WebApi\\obj\\",
+      "outputPath": "C:\\Users\\aktur\\Documents\\GitHub\\CargoTrackingAndDelivery\\TekhnelogosInterviewProject.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aktur\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9379,8 +9379,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Tekhnelogos\\TekhnelogosInterviewProject\\TekhnelogosInterviewProject.Service\\TekhnelogosInterviewProject.Service.csproj": {
-              "projectPath": "D:\\Tekhnelogos\\TekhnelogosInterviewProject\\TekhnelogosInterviewProject.Service\\TekhnelogosInterviewProject.Service.csproj"
+            "C:\\Users\\aktur\\Documents\\GitHub\\CargoTrackingAndDelivery\\TekhnelogosInterviewProject.Service\\TekhnelogosInterviewProject.Service.csproj": {
+              "projectPath": "C:\\Users\\aktur\\Documents\\GitHub\\CargoTrackingAndDelivery\\TekhnelogosInterviewProject.Service\\TekhnelogosInterviewProject.Service.csproj"
             }
           }
         }

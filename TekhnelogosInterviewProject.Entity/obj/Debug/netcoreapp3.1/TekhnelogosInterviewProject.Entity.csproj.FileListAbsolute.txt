@@ -8,3 +8,13 @@ D:\Tekhnelogos\TekhnelogosInterviewProject\TekhnelogosInterviewProject.Entity\ob
 D:\Tekhnelogos\TekhnelogosInterviewProject\TekhnelogosInterviewProject.Entity\obj\Debug\netcoreapp3.1\TekhnelogosInterviewProject.Entity.dll
 D:\Tekhnelogos\TekhnelogosInterviewProject\TekhnelogosInterviewProject.Entity\obj\Debug\netcoreapp3.1\TekhnelogosInterviewProject.Entity.pdb
 D:\Tekhnelogos\TekhnelogosInterviewProject\TekhnelogosInterviewProject.Entity\obj\Debug\netcoreapp3.1\TekhnelogosInterviewProject.Entity.csprojAssemblyReference.cache
+C:\Users\aktur\Documents\GitHub\CargoTrackingAndDelivery\TekhnelogosInterviewProject.Entity\bin\Debug\netcoreapp3.1\TekhnelogosInterviewProject.Entity.deps.json
+C:\Users\aktur\Documents\GitHub\CargoTrackingAndDelivery\TekhnelogosInterviewProject.Entity\bin\Debug\netcoreapp3.1\TekhnelogosInterviewProject.Entity.dll
+C:\Users\aktur\Documents\GitHub\CargoTrackingAndDelivery\TekhnelogosInterviewProject.Entity\bin\Debug\netcoreapp3.1\TekhnelogosInterviewProject.Entity.pdb
+C:\Users\aktur\Documents\GitHub\CargoTrackingAndDelivery\TekhnelogosInterviewProject.Entity\obj\Debug\netcoreapp3.1\TekhnelogosInterviewProject.Entity.csprojAssemblyReference.cache
+C:\Users\aktur\Documents\GitHub\CargoTrackingAndDelivery\TekhnelogosInterviewProject.Entity\obj\Debug\netcoreapp3.1\TekhnelogosInterviewProject.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aktur\Documents\GitHub\CargoTrackingAndDelivery\TekhnelogosInterviewProject.Entity\obj\Debug\netcoreapp3.1\TekhnelogosInterviewProject.Entity.AssemblyInfoInputs.cache
+C:\Users\aktur\Documents\GitHub\CargoTrackingAndDelivery\TekhnelogosInterviewProject.Entity\obj\Debug\netcoreapp3.1\TekhnelogosInterviewProject.Entity.AssemblyInfo.cs
+C:\Users\aktur\Documents\GitHub\CargoTrackingAndDelivery\TekhnelogosInterviewProject.Entity\obj\Debug\netcoreapp3.1\TekhnelogosInterviewProject.Entity.csproj.CoreCompileInputs.cache
+C:\Users\aktur\Documents\GitHub\CargoTrackingAndDelivery\TekhnelogosInterviewProject.Entity\obj\Debug\netcoreapp3.1\TekhnelogosInterviewProject.Entity.dll
+C:\Users\aktur\Documents\GitHub\CargoTrackingAndDelivery\TekhnelogosInterviewProject.Entity\obj\Debug\netcoreapp3.1\TekhnelogosInterviewProject.Entity.pdb
